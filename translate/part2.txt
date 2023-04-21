@@ -1,0 +1,446 @@
+Our concept is not very high-tech.
+We have to pay attention to how we take care of our farmland.
+If there's a problem, we always help.
+But if we don't have the tools, it's hard to do it.
+When we grow vegetables in a small area, we have to take care of it every day.
+Without tools, it's impossible to do it.
+This is where technology comes in handy.
+We collect data on plants.
+We use the data to analyze how we can improve our farmland.
+Once we understand it, we respond to it.
+We take action.
+If there's a problem, what can we do to fix it?
+We take action to improve our farmland.
+This is how we collect data.
+This is an example.
+This is a photo of a plant.
+We choose to use a drone photo rather than a satellite photo.
+Both have different benefits.
+The satellite photo has all the data in the world.
+But the drone photo has two advantages.
+The first is spatial resolution.
+The second is ground sampling distance.
+The drone photo is 50 cm by 1 pixel.
+We can see the details of the plant.
+The satellite photo is only 15 m by 1 pixel.
+We can't see what's going on in that area.
+We can only see one point.
+It's bigger than the plant itself.
+This is a comparison of drone and satellite photos.
+We can see that the satellite photo has good and bad grounds.
+But we can't tell what's good or bad about the plant.
+But the drone photo is more detailed.
+We can tell the difference.
+We have more information.
+We can make better decisions.
+Another thing is the detail in time.
+The satellite photo doesn't stay in the same place forever.
+It stays in the same place for a day.
+It doesn't mean that we can get the information we want.
+If it rains heavily that day,
+we will miss the opportunity to get the information.
+We can get the information we want by using a drone.
+What do we use to get the information?
+I will show you the drone that we developed for space exploration.
+We have seen a drone that can fly up and down and take photos.
+The only limitation is that it can control the area.
+But compared to a plane that uses wings,
+it has more efficiency.
+It can control the area more.
+Vettel is a drone that we developed.
+It can fly up and down.
+There are two advantages.
+It uses less area.
+It's easy to work.
+It can fly up and down.
+If you have seen the video of space exploration,
+it will be like that.
+It can fly up and down.
+It can fly like a plane.
+It can control the area more.
+It can be used for space exploration.
+It can be used for urban exploration.
+It can be used for small transportation.
+The drone is made of carbon fiber.
+It is light.
+It is light.
+It can control the area more efficiently.
+You can install an on-board computer to control the communication system.
+Whether it is a radio or 4G or 5G,
+you can work with this drone.
+You can work with the drone.
+We have a software to plan where to cover the area,
+how to plan the flight,
+where to take pictures,
+and collect the data to assess the results.
+Okay.
+Now that we have the data,
+we can analyze it to see if it is useful.
+We can start by preparing the area.
+We can use the photo data to see
+whether the area is smooth or not.
+We can prepare the paint for the area.
+We can prepare the paint for the area.
+To prepare the paint for a smooth surface,
+it is easier for the farmer to work.
+It is easier to grow the plants.
+It is easier to take care of the plants.
+The result is better.
+To prepare the area,
+some agricultural projects need a smooth surface.
+Some projects need a small slope
+so that the water can flow from the head to the tail.
+It saves money.
+If we have a slope,
+the water can flow naturally.
+We can use this data to prepare the paint.
+Next, we can use the multi-spectrum data
+to see if the plant is healthy or not.
+We can see if there is any disease or not.
+We can analyze it in detail.
+We can see if this zone is dehydrated
+or if there is a disease.
+This zone may have a bug.
+In addition to seeing the strength,
+we can also use the model to analyze.
+For example,
+we can evaluate the sweetness of the plant.
+It is called the Khabrix.
+The middle picture is the normal color picture.
+The left picture is the result.
+It shows the sweetness of the sugar.
+The right picture shows the height of the plant.
+How much volume does the paint have?
+How many tons will it produce?
+If we know the content of the sugar,
+we can evaluate the sugar content of the paint.
+This is another picture.
+If we keep the data consistently,
+we can know the content of the sugar.
+Is it increasing or decreasing?
+Is it at the right point?
+Does the paint have a constant sweetness value?
+Once we have the data,
+we can plan how to respond to it.
+We can see if the plant is dehydrated,
+or if there is a disease.
+We can take care of the spot.
+If we don't have the data,
+we may have to water the plant.
+It is a high cost.
+It is difficult to take care of the plant.
+If we give a lot of chemicals,
+the plant may be dehydrated.
+But if we know that the plant has a need,
+we can add more chemicals to the plant.
+We can evaluate the plant.
+If we plant a lot of paints,
+we can keep the data.
+We can plan how much the paint has been produced.
+We can plan when the paint is ready to be produced.
+We can plan when the paint is ready to be produced.
+If the plant is dehydrated,
+but the paint is ready to be produced,
+we don't have to wait.
+We can keep the paint before it is damaged.
+Another benefit is that
+there is a tendency to burn the paint.
+Do farmers want to burn the paint?
+They don't want to burn the paint.
+Burning the paint makes the product worse.
+But there is a period when the paint has to be kept.
+But they don't have the tools.
+Everyone wants to keep the paint at the same time to sell.
+The demand for chemicals is increasing.
+If the paint cannot be kept,
+it is not useful.
+There is a tendency to burn the paint.
+But if we have the tools,
+we can plan how to keep the paint.
+We can plan when to keep the paint.
+We can plan when to use the tools.
+We can reduce the problem of chemical degradation during that period.
+Next is the action.
+We know that if we have to give the chemicals,
+we can use the drone to help us.
+We can use the drone to help us.
+This is the drone that we developed.
+We developed this drone to spray the chemicals.
+It has 10 liters of chemicals.
+It is a multi-rotor drone.
+It has 4 blades.
+It has a chemical tank.
+It has a tank and a spray head.
+We can choose which type of plant to spray.
+How many spray heads should be used?
+We can choose the type of plants.
+We can choose which type of plants to spray.
+How fast should we spray?
+We can control the amount of water and give the right amount of water.
+We developed the plane software to interact with the farmers,
+so that they can learn how to work together and use.
+They can use the software and calculate how they have to use the chemicals and how much the chemical spray area has to be used.
+They can calculate how much chemical spray they have to use,
+how much battery and chemical spray they have to use,
+how much water they have to fill,
+and how much chemical spray they have to use.
+The software helps them to calculate and inform the farmers.
+They can use the software and calculate how much chemical spray they have to use.
+The software helps them to calculate and inform the farmers.
+The software allows us to control the aircraft accurately.
+We can always spray the chemicals and increase the amount of chemical spray to some point.
+The software can control the aircraft accurately.
+The software can control the aircraft accurately.
+In the case of a large area that cannot be controlled in time,
+the software can work together and send the flight plan to the aircraft.
+It saves time and effort.
+It saves time and effort.
+It saves time and effort.
+We can see that it's better than humans.
+The aircraft can work faster than humans.
+So far, no one has to spray the chemicals on their own.
+So far, no one has to spray the chemicals on their own.
+So far, no one has to spray the chemicals on their own.
+We can also create more jobs for them.
+The farmers don't have to spray the chemicals on their own.
+They hire the workers.
+The employers can work more in a day.
+In addition to our commercial drones,
+we also have other autonomous vehicles
+that can do other kinds of work or experiments
+that currently do not use agriculture,
+but can use agriculture.
+Okay.
+This is an autonomous vehicle
+that can work in different places instead of humans.
+For example, it can deliver heavy goods
+and work in a farm
+so that we don't have to risk contact with the world or animals.
+It can also work in a mine
+to measure and collect data
+or spray the chemicals on the plants.
+It's an autonomous vehicle
+that can work in different places instead of humans.
+Okay.
+Or it can work in the seawater.
+We can also have a boat
+that can plan the depth of the water
+and the area where it can release and collect the water.
+It can plan the amount of water
+that will be collected in the rain.
+Or it can use it to check the quality of water
+and measure the quality of water
+to see how dirty the water is
+and see if there are any pathogens.
+It can also use it to monitor the water quality
+to monitor the water quality of the water.
+The boat can be used to plan the depth of the water
+and measure the quality of water.
+It's similar to a drone.
+We can plan the area that we want it to explore
+and how we want it to control the area
+and how we want it to collect the data.
+Okay.
+The boat can also be used to measure the depth of the water.
+It can measure the depth of the water
+and see how deep it is.
+It can also plan the depth of the water
+and see how deep it is.
+It can also combine the data with the weather forecast
+to plan the weather forecast
+for both upstream and downstream.
+Okay.
+The submarine can also be used
+to plan the weather forecast for both upstream and downstream.
+Okay.
+We didn't make this model for research purposes.
+At first, we made this model for research purposes
+to study the gas pipeline in the South China Sea.
+But when it works in the water,
+it can also actually work with water pets in the sea.
+Nowadays, there is a system to take care of the seagrasses in the sea.
+It can monitor the water pets in the sea as well as the water bodies in the sea.
+This model can be used to conduct research
+and be tested using various devices
+to study the water area,
+gather photos, study its variations, etc.
+This is a software that can be tested in the sea.
+This is a picture of how it works.
+It can measure various values
+and send it back to the surface of the water
+so that we don't have to go down to work under the water.
+This is a picture of how it works.
+It can measure the value of the water area.
+This is a picture of how it works.
+It can measure the value of the water area.
+This is a picture of how it works.
+This is a picture of how it works.
+This is an example of various autonomous systems
+that can help us.
+To sum up,
+we believe that
+we believe that 1 plus 1 equals 2.
+We believe that
+the autonomous technology can work with people
+with different strengths.
+It can work with people with more than just 2.
+It can work with people with more resources.
+It can work with people with better decision-making skills.
+It can work with people with better decision-making skills.
+It can work with people with better decision-making skills.
+It can work with people with better decision-making skills.
+By combining people's abilities
+by combining people's abilities
+with the cars' abilities,
+we can solve a lot of problems.
+That's it.
+If you have any questions, feel free to ask.
+I have two questions.
+The drone service is for selling images.
+The drone service is for selling images.
+Do you have a drone service?
+We don't have a drone service.
+We sell drones
+and promote image marketing.
+The customer can buy our drones
+or use their drones.
+We can upload images to the system
+and sell them.
+You have a drone service
+that sells images.
+Do you have a drone service?
+I've seen a drone service
+that sells images.
+How do you use the drone service?
+Do you use the data service?
+As far as I know,
+there's a drone service
+that recounts images.
+I'm not sure what kind of images
+they use.
+I'm not sure.
+Do you have a drone service?
+Do you have a drone service?
+Do you have a drone service?
+Do you have a drone service?
+Do you have a drone service?
+Do you have a drone service?
+As far as I know,
+our customers use the service in their own area.
+We don't run the service for others.
+Do you have a drone service?
+Do you have a drone service?
+I'm not sure.
+As far as I know,
+our customers use the service in their own area.
+As far as I know,
+our customers use the service in their own area.
+As far as I know,
+we don't have a drone service.
+We don't have a drone service.
+We use our own data.
+It's not that big.
+It's not that big.
+It's not that big.
+This is a feedback.
+In case we have a chance to meet someone who does this job.
+Or we might have a partner to continue this treatment.
+Or we might have a partner to continue this treatment.
+If we say we want people to know
+If we say we want people to know
+then they will get encouragement from us.
+They'll talk to me first when this problem occurs.
+I have a person who is interested in this.
+I have a person who is interested in this.
+I mean if I heard that there are orbit wires in this area,
+I mean if I heard that there are orbit wires in this area,
+I'd like to use that to check to see if it'd be problematic
+I'd like to use that to check to see if it'd be problematic
+Mr.Tumpaksit was working on an area
+I've talked to the TGO about carbon credit
+I've talked to the TGO about carbon credit
+They still have to deliver the wood
+They still have to deliver the wood
+to calculate the carbon credit
+So I'm trying these
+I'd like to ask as a producer
+if there are any customers who want to use it for service
+if there are any customers who want to use it for service
+Safer and more distributed
+Safer and more distributed
+You'll see it in the class
+you'll see it in the class
+There are many version of it
+There are many version of it
+I have a question
+There are many customers who don't know much about technology
+Can they use any services related to technology?
+Can they use any services related to technology?
+I can answer that
+If you ask me if there are people who don't know much about technology
+I don't want to look down on them
+I think they are not that high-tech
+I think they are not that high-tech
+4-5 years ago, it was like that
+But now, everyone has a mobile phone
+They receive information via social media
+They watch TikTok
+Many economists have TikTok
+They follow each other
+Most of the economists are in technology
+When we work with economists
+We know their workflow
+We design software to make it easy to use
+We make menus in Thai
+We make menus in Thai
+In comparison to other countries, like Wat
+In other countries, it's Hector
+In Thailand, we use Wale
+We make calculations in Thai
+We make calculations in Thai
+We make calculations in Thai
+We make calculations in Thai
+We make calculations in Thai
+Can I ask you a question?
+If there are people who don't know much about technology
+Do you have a solution?
+Do you have a solution?
+Or do you have to get help from new people?
+Or do you have to get help from new people?
+Or do you have to get help from new people?
+Partially,
+Partially,
+There are things that can be helped
+They are happy
+They face problems
+This is a solution that can be helped
+They are willing to use it
+It's easy tools
+It's not like
+When we use cellphone
+It's like downloading data
+It's just for menus
+It's not that hard to use
+I've never seen a case that can't be used
+Thank you
+Thank you to all three speakers
+How was it?
+Is there anyone interested in doing agri-tech?
+Thank you everyone for coming
+Thank you for your support
+Whether it's Protoss, Axon, or 5G
+Most importantly, I would like to thank Two Digital Credit
+Digital Park, our TDP
+Today, we've learned a lot about agri-tech
+Let's take a picture together
+There are some souvenirs, right?
+Let's take a look at the speakers
+It's a T-shirt
+There are two events today
+One is P'Pompawut's Web Friend Day
+I've already organized two boxes
+I can't find the right place
+Let's take a picture together
+Let's take a picture
+Let's take a picture together
+Let's take a picture together

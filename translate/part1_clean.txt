@@ -1,0 +1,77 @@
+Our concept is not very high-tech.
+We have to pay attention to how we take care of our farmland.
+If there are any problems, we always cooperate.
+But if we don't have the tools, it's hard to do it.
+We plant vegetables in small areas.
+But if we do it in a big area, we have to take care of all the plants every day.
+Without any tools, it's impossible.
+This is where technology comes in handy.
+We collect data on plants.
+We analyze the data.
+From the raw data, we analyze it to understand how our plants are doing.
+Once we understand it, how do we respond?
+How do we take action?
+If there are any problems, how do we solve them?
+Then we take action.
+This is how we collect data.
+This is an example.
+This is a photo.
+This is a photo of a plant.
+We choose to use a drone photo rather than a satellite photo.
+Both have different benefits.
+Satellites are around the world.
+They get data from all over the world.
+There are two points where drone photos are better.
+The first is spatial resolution.
+The second is ground sampling distance.
+This is how much a single point of a photo can cover.
+If we compare drone photos, we can get 50 cm by 1 pixel.
+We can see the details of the plant.
+Satellite photos are only 15 m by 1 pixel.
+We can't see what's going on in that area.
+We can only see one point.
+It's bigger than the plant itself.
+This is a comparison of drone and satellite photos.
+We can see that the satellite photos are more detailed than the drone photos.
+This gives us more information.
+We can make better decisions.
+Satellite photos don't stay in the same place forever.
+They move around.
+They stay in the same place for a day.
+It doesn't mean that we get the data that we want.
+If it rains heavily that day, we miss the chance to get the data.
+Using a drone allows us to get the data that we want.
+What do we use to collect spatial data?
+This is a drone video that we developed for spatial research.
+We have seen a drone that can fly up and down.
+The limitation is that it can control the area.
+But compared to a drone that can fly up and down, it can control the area more efficiently.
+Vettel is a drone that we developed.
+It can fly up and down.
+There are two advantages.
+It uses less space.
+It is easier to work.
+It can fly up and down.
+If you have seen the video of Space X, it is the same.
+It can fly up and down.
+It can change the air.
+It can fly like an airplane.
+It can control the area more efficiently.
+It can be used for spatial research.
+It can be used for urban planning.
+It can be used to transport small goods.
+The drone is made of carbon fiber.
+It is light and can be used to control the area.
+We can install on-board computers to control the communication system.
+Whether it is using 4G or 5G, we can work together with this drone.
+The drone works with Nomad.
+We have a software to plan where to cover the area,
+how to plan the flight,
+where to take pictures,
+and collect the data for further analysis.
+Once we have the data, we can use it for analysis.
+We can use the data to see whether the area is well-planned.
+We can plan the area to make it easier for farmers to work.
+Some agricultural projects require a well-planned area.
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+Thank you to all three speakers.

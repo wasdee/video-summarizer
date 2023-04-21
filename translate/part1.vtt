@@ -1,0 +1,425 @@
+WEBVTT
+
+00:00.000 --> 00:04.000
+Our concept is not very high-tech.
+
+00:04.000 --> 00:12.000
+We have to pay attention to how we take care of our farmland.
+
+00:12.000 --> 00:15.000
+If there are any problems, we always cooperate.
+
+00:15.000 --> 00:21.000
+But if we don't have the tools, it's hard to do it.
+
+00:21.000 --> 00:24.000
+We plant vegetables in small areas.
+
+00:24.000 --> 00:31.000
+But if we do it in a big area, we have to take care of all the plants every day.
+
+00:31.000 --> 00:35.000
+Without any tools, it's impossible.
+
+00:35.000 --> 00:38.000
+This is where technology comes in handy.
+
+00:38.000 --> 00:44.000
+We collect data on plants.
+
+00:44.000 --> 00:46.000
+We analyze the data.
+
+00:46.000 --> 00:55.000
+From the raw data, we analyze it to understand how our plants are doing.
+
+00:55.000 --> 00:58.000
+Once we understand it, how do we respond?
+
+00:58.000 --> 01:00.000
+How do we take action?
+
+01:00.000 --> 01:03.000
+If there are any problems, how do we solve them?
+
+01:03.000 --> 01:09.000
+Then we take action.
+
+01:10.000 --> 01:16.000
+This is how we collect data.
+
+01:16.000 --> 01:18.000
+This is an example.
+
+01:18.000 --> 01:20.000
+This is a photo.
+
+01:20.000 --> 01:23.000
+This is a photo of a plant.
+
+01:23.000 --> 01:28.000
+We choose to use a drone photo rather than a satellite photo.
+
+01:28.000 --> 01:32.000
+Both have different benefits.
+
+01:32.000 --> 01:34.000
+Satellites are around the world.
+
+01:34.000 --> 01:36.000
+They get data from all over the world.
+
+01:36.000 --> 01:40.000
+There are two points where drone photos are better.
+
+01:40.000 --> 01:45.000
+The first is spatial resolution.
+
+01:45.000 --> 01:49.000
+The second is ground sampling distance.
+
+01:49.000 --> 01:52.000
+This is how much a single point of a photo can cover.
+
+01:52.000 --> 01:58.000
+If we compare drone photos, we can get 50 cm by 1 pixel.
+
+01:58.000 --> 02:01.000
+We can see the details of the plant.
+
+02:01.000 --> 02:07.000
+Satellite photos are only 15 m by 1 pixel.
+
+02:07.000 --> 02:11.000
+We can't see what's going on in that area.
+
+02:11.000 --> 02:13.000
+We can only see one point.
+
+02:13.000 --> 02:15.000
+It's bigger than the plant itself.
+
+02:19.000 --> 02:29.000
+This is a comparison of drone and satellite photos.
+
+02:29.000 --> 02:45.000
+We can see that the satellite photos are more detailed than the drone photos.
+
+02:45.000 --> 02:47.000
+This gives us more information.
+
+02:47.000 --> 02:49.000
+We can make better decisions.
+
+02:49.000 --> 02:58.000
+Satellite photos don't stay in the same place forever.
+
+02:58.000 --> 03:00.000
+They move around.
+
+03:00.000 --> 03:03.000
+They stay in the same place for a day.
+
+03:03.000 --> 03:07.000
+It doesn't mean that we get the data that we want.
+
+03:07.000 --> 03:15.000
+If it rains heavily that day, we miss the chance to get the data.
+
+03:16.000 --> 03:23.000
+Using a drone allows us to get the data that we want.
+
+03:27.000 --> 03:32.000
+What do we use to collect spatial data?
+
+03:32.000 --> 03:40.000
+This is a drone video that we developed for spatial research.
+
+03:46.000 --> 03:53.000
+We have seen a drone that can fly up and down.
+
+03:53.000 --> 03:57.000
+The limitation is that it can control the area.
+
+03:57.000 --> 04:04.000
+But compared to a drone that can fly up and down, it can control the area more efficiently.
+
+04:04.000 --> 04:07.000
+Vettel is a drone that we developed.
+
+04:07.000 --> 04:10.000
+It can fly up and down.
+
+04:11.000 --> 04:14.000
+There are two advantages.
+
+04:14.000 --> 04:16.000
+It uses less space.
+
+04:16.000 --> 04:17.000
+It is easier to work.
+
+04:17.000 --> 04:18.000
+It can fly up and down.
+
+04:18.000 --> 04:21.000
+If you have seen the video of Space X, it is the same.
+
+04:21.000 --> 04:22.000
+It can fly up and down.
+
+04:22.000 --> 04:24.000
+It can change the air.
+
+04:24.000 --> 04:26.000
+It can fly like an airplane.
+
+04:26.000 --> 04:28.000
+It can control the area more efficiently.
+
+04:28.000 --> 04:32.000
+It can be used for spatial research.
+
+04:32.000 --> 04:35.000
+It can be used for urban planning.
+
+04:35.000 --> 04:42.000
+It can be used to transport small goods.
+
+04:42.000 --> 04:46.000
+The drone is made of carbon fiber.
+
+04:46.000 --> 04:52.000
+It is light and can be used to control the area.
+
+04:53.000 --> 05:01.000
+We can install on-board computers to control the communication system.
+
+05:01.000 --> 05:08.000
+Whether it is using 4G or 5G, we can work together with this drone.
+
+05:17.000 --> 05:20.000
+The drone works with Nomad.
+
+05:20.000 --> 05:25.000
+We have a software to plan where to cover the area,
+
+05:25.000 --> 05:27.000
+how to plan the flight,
+
+05:27.000 --> 05:28.000
+where to take pictures,
+
+05:28.000 --> 05:31.000
+and collect the data for further analysis.
+
+05:50.000 --> 06:01.000
+Once we have the data, we can use it for analysis.
+
+06:01.000 --> 06:14.000
+We can use the data to see whether the area is well-planned.
+
+06:14.000 --> 06:21.000
+We can plan the area to make it easier for farmers to work.
+
+06:21.000 --> 06:28.000
+We can plan the area to make it easier for farmers to work.
+
+06:28.000 --> 06:37.000
+Some agricultural projects require a well-planned area.
+
+06:38.000 --> 06:44.000
+Some agricultural projects require a well-planned area.
+
+06:44.000 --> 07:13.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+07:13.000 --> 07:18.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+07:18.000 --> 07:31.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+07:31.000 --> 07:41.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+07:41.000 --> 07:51.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+07:51.000 --> 08:19.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+08:21.000 --> 08:46.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+08:46.000 --> 09:01.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+09:01.000 --> 09:29.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+09:29.000 --> 09:39.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+09:39.000 --> 10:07.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+10:07.000 --> 10:25.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+10:25.000 --> 10:53.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+10:53.000 --> 11:13.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+11:13.000 --> 11:41.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+11:41.000 --> 11:51.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+12:11.000 --> 12:31.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+12:31.000 --> 12:59.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+13:01.000 --> 13:27.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+13:27.000 --> 13:55.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+13:57.000 --> 14:25.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+14:27.000 --> 14:55.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+14:57.000 --> 15:25.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+15:27.000 --> 15:55.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+15:57.000 --> 16:25.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+16:25.000 --> 16:53.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+16:55.000 --> 17:23.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+17:23.000 --> 17:51.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+17:51.000 --> 18:19.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+18:19.000 --> 18:45.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+18:45.000 --> 19:13.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+19:15.000 --> 19:43.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+19:45.000 --> 20:11.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+20:11.000 --> 20:39.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+20:39.000 --> 21:07.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+21:09.000 --> 21:37.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+21:39.000 --> 22:07.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+22:09.000 --> 22:35.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+22:35.000 --> 23:03.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+23:05.000 --> 23:33.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+23:35.000 --> 23:55.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+23:55.000 --> 24:23.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+24:25.000 --> 24:35.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+24:35.000 --> 24:55.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+24:55.000 --> 25:23.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+25:23.000 --> 25:51.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+25:53.000 --> 26:21.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+26:23.000 --> 26:51.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+26:51.000 --> 27:19.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+27:19.000 --> 27:47.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+27:49.000 --> 28:09.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+28:09.000 --> 28:37.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+28:37.000 --> 29:05.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+29:05.000 --> 29:33.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+29:33.000 --> 30:01.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+30:01.000 --> 30:29.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+30:31.000 --> 30:57.000
+We can use the multi-spectrum data to see whether the soil is hard or soft.
+
+30:57.000 --> 31:03.000
+Thank you to all three speakers.
+
+31:03.000 --> 31:25.000
+Thank you to all three speakers.
+
+31:25.000 --> 31:53.000
+Thank you to all three speakers.
+
+31:53.000 --> 32:01.000
+Thank you to all three speakers.
+
+32:23.000 --> 32:51.000
+Thank you to all three speakers.
+
+32:53.000 --> 33:21.000
+Thank you to all three speakers.
+
+33:23.000 --> 33:26.000
+Thank you to all three speakers.
+

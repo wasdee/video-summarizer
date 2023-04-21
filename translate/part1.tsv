@@ -1,0 +1,142 @@
+start	end	text
+0	4000	Our concept is not very high-tech.
+4000	12000	We have to pay attention to how we take care of our farmland.
+12000	15000	If there are any problems, we always cooperate.
+15000	21000	But if we don't have the tools, it's hard to do it.
+21000	24000	We plant vegetables in small areas.
+24000	31000	But if we do it in a big area, we have to take care of all the plants every day.
+31000	35000	Without any tools, it's impossible.
+35000	38000	This is where technology comes in handy.
+38000	44000	We collect data on plants.
+44000	46000	We analyze the data.
+46000	55000	From the raw data, we analyze it to understand how our plants are doing.
+55000	58000	Once we understand it, how do we respond?
+58000	60000	How do we take action?
+60000	63000	If there are any problems, how do we solve them?
+63000	69000	Then we take action.
+70000	76000	This is how we collect data.
+76000	78000	This is an example.
+78000	80000	This is a photo.
+80000	83000	This is a photo of a plant.
+83000	88000	We choose to use a drone photo rather than a satellite photo.
+88000	92000	Both have different benefits.
+92000	94000	Satellites are around the world.
+94000	96000	They get data from all over the world.
+96000	100000	There are two points where drone photos are better.
+100000	105000	The first is spatial resolution.
+105000	109000	The second is ground sampling distance.
+109000	112000	This is how much a single point of a photo can cover.
+112000	118000	If we compare drone photos, we can get 50 cm by 1 pixel.
+118000	121000	We can see the details of the plant.
+121000	127000	Satellite photos are only 15 m by 1 pixel.
+127000	131000	We can't see what's going on in that area.
+131000	133000	We can only see one point.
+133000	135000	It's bigger than the plant itself.
+139000	149000	This is a comparison of drone and satellite photos.
+149000	165000	We can see that the satellite photos are more detailed than the drone photos.
+165000	167000	This gives us more information.
+167000	169000	We can make better decisions.
+169000	178000	Satellite photos don't stay in the same place forever.
+178000	180000	They move around.
+180000	183000	They stay in the same place for a day.
+183000	187000	It doesn't mean that we get the data that we want.
+187000	195000	If it rains heavily that day, we miss the chance to get the data.
+196000	203000	Using a drone allows us to get the data that we want.
+207000	212000	What do we use to collect spatial data?
+212000	220000	This is a drone video that we developed for spatial research.
+226000	233000	We have seen a drone that can fly up and down.
+233000	237000	The limitation is that it can control the area.
+237000	244000	But compared to a drone that can fly up and down, it can control the area more efficiently.
+244000	247000	Vettel is a drone that we developed.
+247000	250000	It can fly up and down.
+251000	254000	There are two advantages.
+254000	256000	It uses less space.
+256000	257000	It is easier to work.
+257000	258000	It can fly up and down.
+258000	261000	If you have seen the video of Space X, it is the same.
+261000	262000	It can fly up and down.
+262000	264000	It can change the air.
+264000	266000	It can fly like an airplane.
+266000	268000	It can control the area more efficiently.
+268000	272000	It can be used for spatial research.
+272000	275000	It can be used for urban planning.
+275000	282000	It can be used to transport small goods.
+282000	286000	The drone is made of carbon fiber.
+286000	292000	It is light and can be used to control the area.
+293000	301000	We can install on-board computers to control the communication system.
+301000	308000	Whether it is using 4G or 5G, we can work together with this drone.
+317000	320000	The drone works with Nomad.
+320000	325000	We have a software to plan where to cover the area,
+325000	327000	how to plan the flight,
+327000	328000	where to take pictures,
+328000	331000	and collect the data for further analysis.
+350000	361000	Once we have the data, we can use it for analysis.
+361000	374000	We can use the data to see whether the area is well-planned.
+374000	381000	We can plan the area to make it easier for farmers to work.
+381000	388000	We can plan the area to make it easier for farmers to work.
+388000	397000	Some agricultural projects require a well-planned area.
+398000	404000	Some agricultural projects require a well-planned area.
+404000	433000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+433000	438000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+438000	451000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+451000	461000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+461000	471000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+471000	499000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+501000	526000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+526000	541000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+541000	569000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+569000	579000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+579000	607000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+607000	625000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+625000	653000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+653000	673000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+673000	701000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+701000	711000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+731000	751000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+751000	779000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+781000	807000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+807000	835000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+837000	865000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+867000	895000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+897000	925000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+927000	955000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+957000	985000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+985000	1013000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1015000	1043000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1043000	1071000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1071000	1099000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1099000	1125000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1125000	1153000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1155000	1183000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1185000	1211000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1211000	1239000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1239000	1267000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1269000	1297000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1299000	1327000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1329000	1355000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1355000	1383000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1385000	1413000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1415000	1435000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1435000	1463000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1465000	1475000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1475000	1495000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1495000	1523000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1523000	1551000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1553000	1581000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1583000	1611000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1611000	1639000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1639000	1667000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1669000	1689000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1689000	1717000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1717000	1745000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1745000	1773000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1773000	1801000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1801000	1829000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1831000	1857000	We can use the multi-spectrum data to see whether the soil is hard or soft.
+1857000	1863000	Thank you to all three speakers.
+1863000	1885000	Thank you to all three speakers.
+1885000	1913000	Thank you to all three speakers.
+1913000	1921000	Thank you to all three speakers.
+1943000	1971000	Thank you to all three speakers.
+1973000	2001000	Thank you to all three speakers.
+2003000	2006000	Thank you to all three speakers.

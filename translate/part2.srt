@@ -1,0 +1,1784 @@
+1
+00:00:00,000 --> 00:00:04,000
+Our concept is not very high-tech.
+
+2
+00:00:04,000 --> 00:00:12,000
+We have to pay attention to how we take care of our farmland.
+
+3
+00:00:12,000 --> 00:00:15,000
+If there's a problem, we always help.
+
+4
+00:00:15,000 --> 00:00:21,000
+But if we don't have the tools, it's hard to do it.
+
+5
+00:00:21,000 --> 00:00:31,000
+When we grow vegetables in a small area, we have to take care of it every day.
+
+6
+00:00:31,000 --> 00:00:35,000
+Without tools, it's impossible to do it.
+
+7
+00:00:35,000 --> 00:00:38,000
+This is where technology comes in handy.
+
+8
+00:00:38,000 --> 00:00:44,000
+We collect data on plants.
+
+9
+00:00:44,000 --> 00:00:55,000
+We use the data to analyze how we can improve our farmland.
+
+10
+00:00:55,000 --> 00:00:58,000
+Once we understand it, we respond to it.
+
+11
+00:00:58,000 --> 00:01:00,000
+We take action.
+
+12
+00:01:00,000 --> 00:01:03,000
+If there's a problem, what can we do to fix it?
+
+13
+00:01:03,000 --> 00:01:09,000
+We take action to improve our farmland.
+
+14
+00:01:10,000 --> 00:01:16,000
+This is how we collect data.
+
+15
+00:01:16,000 --> 00:01:18,000
+This is an example.
+
+16
+00:01:18,000 --> 00:01:23,000
+This is a photo of a plant.
+
+17
+00:01:23,000 --> 00:01:28,000
+We choose to use a drone photo rather than a satellite photo.
+
+18
+00:01:28,000 --> 00:01:32,000
+Both have different benefits.
+
+19
+00:01:32,000 --> 00:01:35,000
+The satellite photo has all the data in the world.
+
+20
+00:01:35,000 --> 00:01:40,000
+But the drone photo has two advantages.
+
+21
+00:01:40,000 --> 00:01:45,000
+The first is spatial resolution.
+
+22
+00:01:45,000 --> 00:01:52,000
+The second is ground sampling distance.
+
+23
+00:01:52,000 --> 00:01:58,000
+The drone photo is 50 cm by 1 pixel.
+
+24
+00:01:58,000 --> 00:02:01,000
+We can see the details of the plant.
+
+25
+00:02:01,000 --> 00:02:07,000
+The satellite photo is only 15 m by 1 pixel.
+
+26
+00:02:07,000 --> 00:02:11,000
+We can't see what's going on in that area.
+
+27
+00:02:11,000 --> 00:02:13,000
+We can only see one point.
+
+28
+00:02:13,000 --> 00:02:15,000
+It's bigger than the plant itself.
+
+29
+00:02:19,000 --> 00:02:29,000
+This is a comparison of drone and satellite photos.
+
+30
+00:02:29,000 --> 00:02:37,000
+We can see that the satellite photo has good and bad grounds.
+
+31
+00:02:37,000 --> 00:02:41,000
+But we can't tell what's good or bad about the plant.
+
+32
+00:02:41,000 --> 00:02:43,000
+But the drone photo is more detailed.
+
+33
+00:02:43,000 --> 00:02:45,000
+We can tell the difference.
+
+34
+00:02:45,000 --> 00:02:47,000
+We have more information.
+
+35
+00:02:47,000 --> 00:02:49,000
+We can make better decisions.
+
+36
+00:02:53,000 --> 00:02:55,000
+Another thing is the detail in time.
+
+37
+00:02:55,000 --> 00:02:59,000
+The satellite photo doesn't stay in the same place forever.
+
+38
+00:02:59,000 --> 00:03:04,000
+It stays in the same place for a day.
+
+39
+00:03:04,000 --> 00:03:08,000
+It doesn't mean that we can get the information we want.
+
+40
+00:03:08,000 --> 00:03:12,000
+If it rains heavily that day,
+
+41
+00:03:12,000 --> 00:03:16,000
+we will miss the opportunity to get the information.
+
+42
+00:03:16,000 --> 00:03:23,000
+We can get the information we want by using a drone.
+
+43
+00:03:26,000 --> 00:03:32,000
+What do we use to get the information?
+
+44
+00:03:32,000 --> 00:03:40,000
+I will show you the drone that we developed for space exploration.
+
+45
+00:03:46,000 --> 00:03:53,000
+We have seen a drone that can fly up and down and take photos.
+
+46
+00:03:53,000 --> 00:03:57,000
+The only limitation is that it can control the area.
+
+47
+00:03:57,000 --> 00:04:00,000
+But compared to a plane that uses wings,
+
+48
+00:04:00,000 --> 00:04:02,000
+it has more efficiency.
+
+49
+00:04:02,000 --> 00:04:04,000
+It can control the area more.
+
+50
+00:04:04,000 --> 00:04:07,000
+Vettel is a drone that we developed.
+
+51
+00:04:07,000 --> 00:04:10,000
+It can fly up and down.
+
+52
+00:04:10,000 --> 00:04:14,000
+There are two advantages.
+
+53
+00:04:14,000 --> 00:04:15,000
+It uses less area.
+
+54
+00:04:15,000 --> 00:04:16,000
+It's easy to work.
+
+55
+00:04:16,000 --> 00:04:17,000
+It can fly up and down.
+
+56
+00:04:17,000 --> 00:04:19,000
+If you have seen the video of space exploration,
+
+57
+00:04:19,000 --> 00:04:20,000
+it will be like that.
+
+58
+00:04:20,000 --> 00:04:21,000
+It can fly up and down.
+
+59
+00:04:21,000 --> 00:04:25,000
+It can fly like a plane.
+
+60
+00:04:25,000 --> 00:04:27,000
+It can control the area more.
+
+61
+00:04:27,000 --> 00:04:32,000
+It can be used for space exploration.
+
+62
+00:04:32,000 --> 00:04:35,000
+It can be used for urban exploration.
+
+63
+00:04:35,000 --> 00:04:42,000
+It can be used for small transportation.
+
+64
+00:04:42,000 --> 00:04:46,000
+The drone is made of carbon fiber.
+
+65
+00:04:46,000 --> 00:04:47,000
+It is light.
+
+66
+00:04:47,000 --> 00:04:48,000
+It is light.
+
+67
+00:04:48,000 --> 00:04:52,000
+It can control the area more efficiently.
+
+68
+00:04:56,000 --> 00:05:01,000
+You can install an on-board computer to control the communication system.
+
+69
+00:05:01,000 --> 00:05:05,000
+Whether it is a radio or 4G or 5G,
+
+70
+00:05:05,000 --> 00:05:08,000
+you can work with this drone.
+
+71
+00:05:18,000 --> 00:05:20,000
+You can work with the drone.
+
+72
+00:05:20,000 --> 00:05:25,000
+We have a software to plan where to cover the area,
+
+73
+00:05:25,000 --> 00:05:26,000
+how to plan the flight,
+
+74
+00:05:26,000 --> 00:05:28,000
+where to take pictures,
+
+75
+00:05:28,000 --> 00:05:31,000
+and collect the data to assess the results.
+
+76
+00:05:48,000 --> 00:05:49,000
+Okay.
+
+77
+00:05:49,000 --> 00:05:51,000
+Now that we have the data,
+
+78
+00:05:51,000 --> 00:05:54,000
+we can analyze it to see if it is useful.
+
+79
+00:05:54,000 --> 00:05:58,000
+We can start by preparing the area.
+
+80
+00:05:58,000 --> 00:06:03,000
+We can use the photo data to see
+
+81
+00:06:03,000 --> 00:06:07,000
+whether the area is smooth or not.
+
+82
+00:06:07,000 --> 00:06:11,000
+We can prepare the paint for the area.
+
+83
+00:06:11,000 --> 00:06:14,000
+We can prepare the paint for the area.
+
+84
+00:06:14,000 --> 00:06:18,000
+To prepare the paint for a smooth surface,
+
+85
+00:06:18,000 --> 00:06:21,000
+it is easier for the farmer to work.
+
+86
+00:06:21,000 --> 00:06:24,000
+It is easier to grow the plants.
+
+87
+00:06:24,000 --> 00:06:26,000
+It is easier to take care of the plants.
+
+88
+00:06:26,000 --> 00:06:27,000
+The result is better.
+
+89
+00:06:27,000 --> 00:06:30,000
+To prepare the area,
+
+90
+00:06:30,000 --> 00:06:37,000
+some agricultural projects need a smooth surface.
+
+91
+00:06:37,000 --> 00:06:40,000
+Some projects need a small slope
+
+92
+00:06:40,000 --> 00:06:44,000
+so that the water can flow from the head to the tail.
+
+93
+00:06:44,000 --> 00:06:50,000
+It saves money.
+
+94
+00:06:50,000 --> 00:06:51,000
+If we have a slope,
+
+95
+00:06:51,000 --> 00:06:55,000
+the water can flow naturally.
+
+96
+00:06:55,000 --> 00:06:59,000
+We can use this data to prepare the paint.
+
+97
+00:06:59,000 --> 00:07:09,000
+Next, we can use the multi-spectrum data
+
+98
+00:07:09,000 --> 00:07:14,000
+to see if the plant is healthy or not.
+
+99
+00:07:14,000 --> 00:07:18,000
+We can see if there is any disease or not.
+
+100
+00:07:18,000 --> 00:07:21,000
+We can analyze it in detail.
+
+101
+00:07:21,000 --> 00:07:27,000
+We can see if this zone is dehydrated
+
+102
+00:07:27,000 --> 00:07:29,000
+or if there is a disease.
+
+103
+00:07:29,000 --> 00:07:31,000
+This zone may have a bug.
+
+104
+00:07:36,000 --> 00:07:38,000
+In addition to seeing the strength,
+
+105
+00:07:38,000 --> 00:07:42,000
+we can also use the model to analyze.
+
+106
+00:07:42,000 --> 00:07:43,000
+For example,
+
+107
+00:07:43,000 --> 00:07:49,000
+we can evaluate the sweetness of the plant.
+
+108
+00:07:49,000 --> 00:07:51,000
+It is called the Khabrix.
+
+109
+00:07:51,000 --> 00:07:54,000
+The middle picture is the normal color picture.
+
+110
+00:07:54,000 --> 00:07:56,000
+The left picture is the result.
+
+111
+00:07:56,000 --> 00:08:00,000
+It shows the sweetness of the sugar.
+
+112
+00:08:00,000 --> 00:08:05,000
+The right picture shows the height of the plant.
+
+113
+00:08:05,000 --> 00:08:08,000
+How much volume does the paint have?
+
+114
+00:08:08,000 --> 00:08:10,000
+How many tons will it produce?
+
+115
+00:08:10,000 --> 00:08:13,000
+If we know the content of the sugar,
+
+116
+00:08:13,000 --> 00:08:19,000
+we can evaluate the sugar content of the paint.
+
+117
+00:08:19,000 --> 00:08:26,000
+This is another picture.
+
+118
+00:08:26,000 --> 00:08:29,000
+If we keep the data consistently,
+
+119
+00:08:29,000 --> 00:08:35,000
+we can know the content of the sugar.
+
+120
+00:08:35,000 --> 00:08:37,000
+Is it increasing or decreasing?
+
+121
+00:08:37,000 --> 00:08:39,000
+Is it at the right point?
+
+122
+00:08:39,000 --> 00:08:46,000
+Does the paint have a constant sweetness value?
+
+123
+00:08:50,000 --> 00:08:53,000
+Once we have the data,
+
+124
+00:08:53,000 --> 00:09:00,000
+we can plan how to respond to it.
+
+125
+00:09:00,000 --> 00:09:06,000
+We can see if the plant is dehydrated,
+
+126
+00:09:06,000 --> 00:09:10,000
+or if there is a disease.
+
+127
+00:09:10,000 --> 00:09:14,000
+We can take care of the spot.
+
+128
+00:09:14,000 --> 00:09:16,000
+If we don't have the data,
+
+129
+00:09:16,000 --> 00:09:22,000
+we may have to water the plant.
+
+130
+00:09:22,000 --> 00:09:25,000
+It is a high cost.
+
+131
+00:09:25,000 --> 00:09:27,000
+It is difficult to take care of the plant.
+
+132
+00:09:27,000 --> 00:09:28,000
+If we give a lot of chemicals,
+
+133
+00:09:28,000 --> 00:09:30,000
+the plant may be dehydrated.
+
+134
+00:09:30,000 --> 00:09:34,000
+But if we know that the plant has a need,
+
+135
+00:09:34,000 --> 00:09:40,000
+we can add more chemicals to the plant.
+
+136
+00:09:41,000 --> 00:09:47,000
+We can evaluate the plant.
+
+137
+00:09:47,000 --> 00:09:51,000
+If we plant a lot of paints,
+
+138
+00:09:51,000 --> 00:09:53,000
+we can keep the data.
+
+139
+00:09:53,000 --> 00:09:57,000
+We can plan how much the paint has been produced.
+
+140
+00:09:57,000 --> 00:10:05,000
+We can plan when the paint is ready to be produced.
+
+141
+00:10:05,000 --> 00:10:10,000
+We can plan when the paint is ready to be produced.
+
+142
+00:10:10,000 --> 00:10:17,000
+If the plant is dehydrated,
+
+143
+00:10:17,000 --> 00:10:20,000
+but the paint is ready to be produced,
+
+144
+00:10:20,000 --> 00:10:21,000
+we don't have to wait.
+
+145
+00:10:21,000 --> 00:10:24,000
+We can keep the paint before it is damaged.
+
+146
+00:10:24,000 --> 00:10:28,000
+Another benefit is that
+
+147
+00:10:28,000 --> 00:10:32,000
+there is a tendency to burn the paint.
+
+148
+00:10:32,000 --> 00:10:35,000
+Do farmers want to burn the paint?
+
+149
+00:10:35,000 --> 00:10:36,000
+They don't want to burn the paint.
+
+150
+00:10:36,000 --> 00:10:40,000
+Burning the paint makes the product worse.
+
+151
+00:10:40,000 --> 00:10:44,000
+But there is a period when the paint has to be kept.
+
+152
+00:10:44,000 --> 00:10:48,000
+But they don't have the tools.
+
+153
+00:10:48,000 --> 00:10:51,000
+Everyone wants to keep the paint at the same time to sell.
+
+154
+00:10:51,000 --> 00:10:55,000
+The demand for chemicals is increasing.
+
+155
+00:10:55,000 --> 00:10:58,000
+If the paint cannot be kept,
+
+156
+00:10:58,000 --> 00:11:00,000
+it is not useful.
+
+157
+00:11:00,000 --> 00:11:06,000
+There is a tendency to burn the paint.
+
+158
+00:11:06,000 --> 00:11:09,000
+But if we have the tools,
+
+159
+00:11:09,000 --> 00:11:13,000
+we can plan how to keep the paint.
+
+160
+00:11:13,000 --> 00:11:15,000
+We can plan when to keep the paint.
+
+161
+00:11:15,000 --> 00:11:17,000
+We can plan when to use the tools.
+
+162
+00:11:17,000 --> 00:11:25,000
+We can reduce the problem of chemical degradation during that period.
+
+163
+00:11:31,000 --> 00:11:34,000
+Next is the action.
+
+164
+00:11:34,000 --> 00:11:40,000
+We know that if we have to give the chemicals,
+
+165
+00:11:40,000 --> 00:11:46,000
+we can use the drone to help us.
+
+166
+00:11:46,000 --> 00:11:52,000
+We can use the drone to help us.
+
+167
+00:12:01,000 --> 00:12:09,000
+This is the drone that we developed.
+
+168
+00:12:09,000 --> 00:12:14,000
+We developed this drone to spray the chemicals.
+
+169
+00:12:14,000 --> 00:12:18,000
+It has 10 liters of chemicals.
+
+170
+00:12:18,000 --> 00:12:21,000
+It is a multi-rotor drone.
+
+171
+00:12:21,000 --> 00:12:23,000
+It has 4 blades.
+
+172
+00:12:23,000 --> 00:12:26,000
+It has a chemical tank.
+
+173
+00:12:26,000 --> 00:12:29,000
+It has a tank and a spray head.
+
+174
+00:12:29,000 --> 00:12:35,000
+We can choose which type of plant to spray.
+
+175
+00:12:35,000 --> 00:12:40,000
+How many spray heads should be used?
+
+176
+00:12:40,000 --> 00:12:43,000
+We can choose the type of plants.
+
+177
+00:12:43,000 --> 00:12:48,000
+We can choose which type of plants to spray.
+
+178
+00:12:48,000 --> 00:12:50,000
+How fast should we spray?
+
+179
+00:12:50,000 --> 00:12:54,000
+We can control the amount of water and give the right amount of water.
+
+180
+00:12:55,000 --> 00:13:03,000
+We developed the plane software to interact with the farmers,
+
+181
+00:13:03,000 --> 00:13:10,000
+so that they can learn how to work together and use.
+
+182
+00:13:10,000 --> 00:13:21,000
+They can use the software and calculate how they have to use the chemicals and how much the chemical spray area has to be used.
+
+183
+00:13:21,000 --> 00:13:27,000
+They can calculate how much chemical spray they have to use,
+
+184
+00:13:27,000 --> 00:13:31,000
+how much battery and chemical spray they have to use,
+
+185
+00:13:31,000 --> 00:13:36,000
+how much water they have to fill,
+
+186
+00:13:36,000 --> 00:13:39,000
+and how much chemical spray they have to use.
+
+187
+00:13:39,000 --> 00:13:46,000
+The software helps them to calculate and inform the farmers.
+
+188
+00:13:46,000 --> 00:13:51,000
+They can use the software and calculate how much chemical spray they have to use.
+
+189
+00:13:51,000 --> 00:13:55,000
+The software helps them to calculate and inform the farmers.
+
+190
+00:13:55,000 --> 00:14:00,000
+The software allows us to control the aircraft accurately.
+
+191
+00:14:00,000 --> 00:14:09,000
+We can always spray the chemicals and increase the amount of chemical spray to some point.
+
+192
+00:14:09,000 --> 00:14:17,000
+The software can control the aircraft accurately.
+
+193
+00:14:17,000 --> 00:14:30,000
+The software can control the aircraft accurately.
+
+194
+00:14:30,000 --> 00:14:36,000
+In the case of a large area that cannot be controlled in time,
+
+195
+00:14:36,000 --> 00:14:44,000
+the software can work together and send the flight plan to the aircraft.
+
+196
+00:14:44,000 --> 00:14:46,000
+It saves time and effort.
+
+197
+00:14:46,000 --> 00:14:49,000
+It saves time and effort.
+
+198
+00:14:49,000 --> 00:14:54,000
+It saves time and effort.
+
+199
+00:15:01,000 --> 00:15:05,000
+We can see that it's better than humans.
+
+200
+00:15:05,000 --> 00:15:08,000
+The aircraft can work faster than humans.
+
+201
+00:15:08,000 --> 00:15:12,000
+So far, no one has to spray the chemicals on their own.
+
+202
+00:15:12,000 --> 00:15:16,000
+So far, no one has to spray the chemicals on their own.
+
+203
+00:15:16,000 --> 00:15:21,000
+So far, no one has to spray the chemicals on their own.
+
+204
+00:15:23,000 --> 00:15:25,000
+We can also create more jobs for them.
+
+205
+00:15:25,000 --> 00:15:27,000
+The farmers don't have to spray the chemicals on their own.
+
+206
+00:15:27,000 --> 00:15:28,000
+They hire the workers.
+
+207
+00:15:28,000 --> 00:15:30,000
+The employers can work more in a day.
+
+208
+00:15:37,000 --> 00:15:41,000
+In addition to our commercial drones,
+
+209
+00:15:41,000 --> 00:15:45,000
+we also have other autonomous vehicles
+
+210
+00:15:45,000 --> 00:15:50,000
+that can do other kinds of work or experiments
+
+211
+00:15:50,000 --> 00:15:52,000
+that currently do not use agriculture,
+
+212
+00:15:52,000 --> 00:15:54,000
+but can use agriculture.
+
+213
+00:15:55,000 --> 00:15:56,000
+Okay.
+
+214
+00:16:06,000 --> 00:16:08,000
+This is an autonomous vehicle
+
+215
+00:16:08,000 --> 00:16:12,000
+that can work in different places instead of humans.
+
+216
+00:16:12,000 --> 00:16:16,000
+For example, it can deliver heavy goods
+
+217
+00:16:16,000 --> 00:16:19,000
+and work in a farm
+
+218
+00:16:19,000 --> 00:16:23,000
+so that we don't have to risk contact with the world or animals.
+
+219
+00:16:23,000 --> 00:16:25,000
+It can also work in a mine
+
+220
+00:16:25,000 --> 00:16:27,000
+to measure and collect data
+
+221
+00:16:27,000 --> 00:16:33,000
+or spray the chemicals on the plants.
+
+222
+00:16:35,000 --> 00:16:38,000
+It's an autonomous vehicle
+
+223
+00:16:38,000 --> 00:16:42,000
+that can work in different places instead of humans.
+
+224
+00:16:53,000 --> 00:16:54,000
+Okay.
+
+225
+00:16:57,000 --> 00:17:00,000
+Or it can work in the seawater.
+
+226
+00:17:04,000 --> 00:17:07,000
+We can also have a boat
+
+227
+00:17:13,000 --> 00:17:18,000
+that can plan the depth of the water
+
+228
+00:17:18,000 --> 00:17:21,000
+and the area where it can release and collect the water.
+
+229
+00:17:21,000 --> 00:17:24,000
+It can plan the amount of water
+
+230
+00:17:24,000 --> 00:17:27,000
+that will be collected in the rain.
+
+231
+00:17:28,000 --> 00:17:32,000
+Or it can use it to check the quality of water
+
+232
+00:17:32,000 --> 00:17:34,000
+and measure the quality of water
+
+233
+00:17:34,000 --> 00:17:36,000
+to see how dirty the water is
+
+234
+00:17:36,000 --> 00:17:38,000
+and see if there are any pathogens.
+
+235
+00:17:38,000 --> 00:17:43,000
+It can also use it to monitor the water quality
+
+236
+00:17:43,000 --> 00:17:46,000
+to monitor the water quality of the water.
+
+237
+00:17:46,000 --> 00:17:51,000
+The boat can be used to plan the depth of the water
+
+238
+00:17:51,000 --> 00:17:56,000
+and measure the quality of water.
+
+239
+00:18:16,000 --> 00:18:18,000
+It's similar to a drone.
+
+240
+00:18:18,000 --> 00:18:23,000
+We can plan the area that we want it to explore
+
+241
+00:18:23,000 --> 00:18:27,000
+and how we want it to control the area
+
+242
+00:18:27,000 --> 00:18:32,000
+and how we want it to collect the data.
+
+243
+00:18:32,000 --> 00:18:33,000
+Okay.
+
+244
+00:18:42,000 --> 00:18:47,000
+The boat can also be used to measure the depth of the water.
+
+245
+00:18:47,000 --> 00:18:50,000
+It can measure the depth of the water
+
+246
+00:18:50,000 --> 00:18:53,000
+and see how deep it is.
+
+247
+00:18:53,000 --> 00:18:58,000
+It can also plan the depth of the water
+
+248
+00:18:58,000 --> 00:19:04,000
+and see how deep it is.
+
+249
+00:19:11,000 --> 00:19:15,000
+It can also combine the data with the weather forecast
+
+250
+00:19:15,000 --> 00:19:19,000
+to plan the weather forecast
+
+251
+00:19:19,000 --> 00:19:22,000
+for both upstream and downstream.
+
+252
+00:19:28,000 --> 00:19:29,000
+Okay.
+
+253
+00:19:52,000 --> 00:19:55,000
+The submarine can also be used
+
+254
+00:19:55,000 --> 00:19:58,000
+to plan the weather forecast for both upstream and downstream.
+
+255
+00:20:08,000 --> 00:20:09,000
+Okay.
+
+256
+00:20:09,000 --> 00:20:13,000
+We didn't make this model for research purposes.
+
+257
+00:20:13,000 --> 00:20:17,000
+At first, we made this model for research purposes
+
+258
+00:20:17,000 --> 00:20:19,000
+to study the gas pipeline in the South China Sea.
+
+259
+00:20:19,000 --> 00:20:21,000
+But when it works in the water,
+
+260
+00:20:21,000 --> 00:20:25,000
+it can also actually work with water pets in the sea.
+
+261
+00:20:25,000 --> 00:20:29,000
+Nowadays, there is a system to take care of the seagrasses in the sea.
+
+262
+00:20:29,000 --> 00:20:35,000
+It can monitor the water pets in the sea as well as the water bodies in the sea.
+
+263
+00:20:35,000 --> 00:20:39,000
+This model can be used to conduct research
+
+264
+00:20:39,000 --> 00:20:42,000
+and be tested using various devices
+
+265
+00:20:42,000 --> 00:20:45,000
+to study the water area,
+
+266
+00:20:45,000 --> 00:20:48,000
+gather photos, study its variations, etc.
+
+267
+00:20:48,000 --> 00:20:56,000
+This is a software that can be tested in the sea.
+
+268
+00:21:19,000 --> 00:21:22,000
+This is a picture of how it works.
+
+269
+00:21:22,000 --> 00:21:25,000
+It can measure various values
+
+270
+00:21:25,000 --> 00:21:28,000
+and send it back to the surface of the water
+
+271
+00:21:28,000 --> 00:21:32,000
+so that we don't have to go down to work under the water.
+
+272
+00:21:49,000 --> 00:21:52,000
+This is a picture of how it works.
+
+273
+00:21:52,000 --> 00:21:55,000
+It can measure the value of the water area.
+
+274
+00:21:55,000 --> 00:21:58,000
+This is a picture of how it works.
+
+275
+00:21:58,000 --> 00:22:01,000
+It can measure the value of the water area.
+
+276
+00:22:01,000 --> 00:22:04,000
+This is a picture of how it works.
+
+277
+00:22:04,000 --> 00:22:07,000
+This is a picture of how it works.
+
+278
+00:22:15,000 --> 00:22:20,000
+This is an example of various autonomous systems
+
+279
+00:22:20,000 --> 00:22:23,000
+that can help us.
+
+280
+00:22:24,000 --> 00:22:27,000
+To sum up,
+
+281
+00:22:27,000 --> 00:22:30,000
+we believe that
+
+282
+00:22:30,000 --> 00:22:33,000
+we believe that 1 plus 1 equals 2.
+
+283
+00:22:33,000 --> 00:22:36,000
+We believe that
+
+284
+00:22:36,000 --> 00:22:39,000
+the autonomous technology can work with people
+
+285
+00:22:39,000 --> 00:22:42,000
+with different strengths.
+
+286
+00:22:42,000 --> 00:22:45,000
+It can work with people with more than just 2.
+
+287
+00:22:45,000 --> 00:22:48,000
+It can work with people with more resources.
+
+288
+00:22:48,000 --> 00:22:51,000
+It can work with people with better decision-making skills.
+
+289
+00:22:51,000 --> 00:22:54,000
+It can work with people with better decision-making skills.
+
+290
+00:22:54,000 --> 00:22:57,000
+It can work with people with better decision-making skills.
+
+291
+00:22:57,000 --> 00:23:00,000
+It can work with people with better decision-making skills.
+
+292
+00:23:00,000 --> 00:23:03,000
+By combining people's abilities
+
+293
+00:23:03,000 --> 00:23:06,000
+by combining people's abilities
+
+294
+00:23:06,000 --> 00:23:09,000
+with the cars' abilities,
+
+295
+00:23:09,000 --> 00:23:12,000
+we can solve a lot of problems.
+
+296
+00:23:16,000 --> 00:23:19,000
+That's it.
+
+297
+00:23:19,000 --> 00:23:22,000
+If you have any questions, feel free to ask.
+
+298
+00:23:43,000 --> 00:23:46,000
+I have two questions.
+
+299
+00:23:46,000 --> 00:23:49,000
+The drone service is for selling images.
+
+300
+00:23:49,000 --> 00:23:52,000
+The drone service is for selling images.
+
+301
+00:23:52,000 --> 00:23:55,000
+Do you have a drone service?
+
+302
+00:23:55,000 --> 00:23:58,000
+We don't have a drone service.
+
+303
+00:23:58,000 --> 00:24:01,000
+We sell drones
+
+304
+00:24:01,000 --> 00:24:04,000
+and promote image marketing.
+
+305
+00:24:04,000 --> 00:24:07,000
+The customer can buy our drones
+
+306
+00:24:07,000 --> 00:24:10,000
+or use their drones.
+
+307
+00:24:10,000 --> 00:24:13,000
+We can upload images to the system
+
+308
+00:24:13,000 --> 00:24:16,000
+and sell them.
+
+309
+00:24:19,000 --> 00:24:22,000
+You have a drone service
+
+310
+00:24:22,000 --> 00:24:25,000
+that sells images.
+
+311
+00:24:25,000 --> 00:24:28,000
+Do you have a drone service?
+
+312
+00:24:28,000 --> 00:24:31,000
+I've seen a drone service
+
+313
+00:24:31,000 --> 00:24:34,000
+that sells images.
+
+314
+00:24:34,000 --> 00:24:37,000
+How do you use the drone service?
+
+315
+00:24:37,000 --> 00:24:40,000
+Do you use the data service?
+
+316
+00:24:40,000 --> 00:24:43,000
+As far as I know,
+
+317
+00:24:43,000 --> 00:24:46,000
+there's a drone service
+
+318
+00:24:46,000 --> 00:24:49,000
+that recounts images.
+
+319
+00:24:49,000 --> 00:24:52,000
+I'm not sure what kind of images
+
+320
+00:24:52,000 --> 00:24:55,000
+they use.
+
+321
+00:24:55,000 --> 00:24:58,000
+I'm not sure.
+
+322
+00:24:58,000 --> 00:25:01,000
+Do you have a drone service?
+
+323
+00:25:01,000 --> 00:25:04,000
+Do you have a drone service?
+
+324
+00:25:04,000 --> 00:25:07,000
+Do you have a drone service?
+
+325
+00:25:07,000 --> 00:25:10,000
+Do you have a drone service?
+
+326
+00:25:10,000 --> 00:25:13,000
+Do you have a drone service?
+
+327
+00:25:13,000 --> 00:25:16,000
+Do you have a drone service?
+
+328
+00:25:16,000 --> 00:25:19,000
+As far as I know,
+
+329
+00:25:19,000 --> 00:25:22,000
+our customers use the service in their own area.
+
+330
+00:25:22,000 --> 00:25:25,000
+We don't run the service for others.
+
+331
+00:25:25,000 --> 00:25:28,000
+Do you have a drone service?
+
+332
+00:25:28,000 --> 00:25:31,000
+Do you have a drone service?
+
+333
+00:25:31,000 --> 00:25:34,000
+I'm not sure.
+
+334
+00:25:34,000 --> 00:25:37,000
+As far as I know,
+
+335
+00:25:37,000 --> 00:25:40,000
+our customers use the service in their own area.
+
+336
+00:25:46,000 --> 00:25:49,000
+As far as I know,
+
+337
+00:25:49,000 --> 00:25:52,000
+our customers use the service in their own area.
+
+338
+00:25:52,000 --> 00:25:55,000
+As far as I know,
+
+339
+00:25:55,000 --> 00:25:58,000
+we don't have a drone service.
+
+340
+00:25:58,000 --> 00:26:01,000
+We don't have a drone service.
+
+341
+00:26:01,000 --> 00:26:04,000
+We use our own data.
+
+342
+00:26:04,000 --> 00:26:07,000
+It's not that big.
+
+343
+00:26:07,000 --> 00:26:10,000
+It's not that big.
+
+344
+00:26:10,000 --> 00:26:13,000
+It's not that big.
+
+345
+00:26:13,000 --> 00:26:16,000
+This is a feedback.
+
+346
+00:26:16,000 --> 00:26:19,000
+In case we have a chance to meet someone who does this job.
+
+347
+00:26:19,000 --> 00:26:22,000
+Or we might have a partner to continue this treatment.
+
+348
+00:26:22,000 --> 00:26:25,000
+Or we might have a partner to continue this treatment.
+
+349
+00:26:25,000 --> 00:26:28,000
+If we say we want people to know
+
+350
+00:26:28,000 --> 00:26:30,000
+If we say we want people to know
+
+351
+00:26:30,000 --> 00:26:33,000
+then they will get encouragement from us.
+
+352
+00:26:33,000 --> 00:26:36,000
+They'll talk to me first when this problem occurs.
+
+353
+00:26:36,000 --> 00:26:39,000
+I have a person who is interested in this.
+
+354
+00:26:39,000 --> 00:26:42,000
+I have a person who is interested in this.
+
+355
+00:26:42,000 --> 00:26:45,000
+I mean if I heard that there are orbit wires in this area,
+
+356
+00:26:45,000 --> 00:26:48,000
+I mean if I heard that there are orbit wires in this area,
+
+357
+00:26:48,000 --> 00:26:51,000
+I'd like to use that to check to see if it'd be problematic
+
+358
+00:26:51,000 --> 00:26:54,000
+I'd like to use that to check to see if it'd be problematic
+
+359
+00:26:54,000 --> 00:26:58,000
+Mr.Tumpaksit was working on an area
+
+360
+00:26:59,000 --> 00:27:02,000
+I've talked to the TGO about carbon credit
+
+361
+00:27:02,000 --> 00:27:05,000
+I've talked to the TGO about carbon credit
+
+362
+00:27:05,000 --> 00:27:08,000
+They still have to deliver the wood
+
+363
+00:27:08,000 --> 00:27:11,000
+They still have to deliver the wood
+
+364
+00:27:11,000 --> 00:27:14,000
+to calculate the carbon credit
+
+365
+00:27:14,000 --> 00:27:17,000
+So I'm trying these
+
+366
+00:27:17,000 --> 00:27:20,000
+I'd like to ask as a producer
+
+367
+00:27:20,000 --> 00:27:23,000
+if there are any customers who want to use it for service
+
+368
+00:27:23,000 --> 00:27:26,000
+if there are any customers who want to use it for service
+
+369
+00:27:26,000 --> 00:27:30,000
+Safer and more distributed
+
+370
+00:27:30,000 --> 00:27:33,000
+Safer and more distributed
+
+371
+00:27:33,000 --> 00:27:36,000
+You'll see it in the class
+
+372
+00:27:36,000 --> 00:27:39,000
+you'll see it in the class
+
+373
+00:27:48,000 --> 00:27:52,000
+There are many version of it
+
+374
+00:27:52,000 --> 00:27:55,000
+There are many version of it
+
+375
+00:27:55,000 --> 00:27:57,000
+I have a question
+
+376
+00:27:57,000 --> 00:28:00,000
+There are many customers who don't know much about technology
+
+377
+00:28:00,000 --> 00:28:06,000
+Can they use any services related to technology?
+
+378
+00:28:06,000 --> 00:28:08,000
+Can they use any services related to technology?
+
+379
+00:28:08,000 --> 00:28:12,000
+I can answer that
+
+380
+00:28:12,000 --> 00:28:16,000
+If you ask me if there are people who don't know much about technology
+
+381
+00:28:16,000 --> 00:28:20,000
+I don't want to look down on them
+
+382
+00:28:20,000 --> 00:28:24,000
+I think they are not that high-tech
+
+383
+00:28:24,000 --> 00:28:26,000
+I think they are not that high-tech
+
+384
+00:28:26,000 --> 00:28:28,000
+4-5 years ago, it was like that
+
+385
+00:28:28,000 --> 00:28:31,000
+But now, everyone has a mobile phone
+
+386
+00:28:31,000 --> 00:28:33,000
+They receive information via social media
+
+387
+00:28:33,000 --> 00:28:36,000
+They watch TikTok
+
+388
+00:28:36,000 --> 00:28:40,000
+Many economists have TikTok
+
+389
+00:28:40,000 --> 00:28:43,000
+They follow each other
+
+390
+00:28:43,000 --> 00:28:47,000
+Most of the economists are in technology
+
+391
+00:28:47,000 --> 00:28:52,000
+When we work with economists
+
+392
+00:28:52,000 --> 00:28:55,000
+We know their workflow
+
+393
+00:28:55,000 --> 00:28:58,000
+We design software to make it easy to use
+
+394
+00:28:58,000 --> 00:29:00,000
+We make menus in Thai
+
+395
+00:29:00,000 --> 00:29:01,000
+We make menus in Thai
+
+396
+00:29:01,000 --> 00:29:04,000
+In comparison to other countries, like Wat
+
+397
+00:29:04,000 --> 00:29:06,000
+In other countries, it's Hector
+
+398
+00:29:06,000 --> 00:29:08,000
+In Thailand, we use Wale
+
+399
+00:29:08,000 --> 00:29:10,000
+We make calculations in Thai
+
+400
+00:29:10,000 --> 00:29:11,000
+We make calculations in Thai
+
+401
+00:29:11,000 --> 00:29:12,000
+We make calculations in Thai
+
+402
+00:29:12,000 --> 00:29:13,000
+We make calculations in Thai
+
+403
+00:29:13,000 --> 00:29:14,000
+We make calculations in Thai
+
+404
+00:29:15,000 --> 00:29:19,000
+Can I ask you a question?
+
+405
+00:29:19,000 --> 00:29:23,000
+If there are people who don't know much about technology
+
+406
+00:29:23,000 --> 00:29:26,000
+Do you have a solution?
+
+407
+00:29:26,000 --> 00:29:28,000
+Do you have a solution?
+
+408
+00:29:28,000 --> 00:29:31,000
+Or do you have to get help from new people?
+
+409
+00:29:31,000 --> 00:29:33,000
+Or do you have to get help from new people?
+
+410
+00:29:33,000 --> 00:29:35,000
+Or do you have to get help from new people?
+
+411
+00:29:35,000 --> 00:29:37,000
+Partially,
+
+412
+00:29:37,000 --> 00:29:41,000
+Partially,
+
+413
+00:29:42,000 --> 00:29:46,000
+There are things that can be helped
+
+414
+00:29:46,000 --> 00:29:48,000
+They are happy
+
+415
+00:29:48,000 --> 00:29:50,000
+They face problems
+
+416
+00:29:50,000 --> 00:29:53,000
+This is a solution that can be helped
+
+417
+00:29:53,000 --> 00:29:56,000
+They are willing to use it
+
+418
+00:29:56,000 --> 00:29:59,000
+It's easy tools
+
+419
+00:29:59,000 --> 00:30:02,000
+It's not like
+
+420
+00:30:02,000 --> 00:30:04,000
+When we use cellphone
+
+421
+00:30:04,000 --> 00:30:06,000
+It's like downloading data
+
+422
+00:30:06,000 --> 00:30:09,000
+It's just for menus
+
+423
+00:30:09,000 --> 00:30:12,000
+It's not that hard to use
+
+424
+00:30:12,000 --> 00:30:19,000
+I've never seen a case that can't be used
+
+425
+00:30:39,000 --> 00:30:49,000
+Thank you
+
+426
+00:30:57,000 --> 00:31:02,000
+Thank you to all three speakers
+
+427
+00:31:02,000 --> 00:31:04,000
+How was it?
+
+428
+00:31:04,000 --> 00:31:08,000
+Is there anyone interested in doing agri-tech?
+
+429
+00:31:08,000 --> 00:31:12,000
+Thank you everyone for coming
+
+430
+00:31:12,000 --> 00:31:14,000
+Thank you for your support
+
+431
+00:31:14,000 --> 00:31:18,000
+Whether it's Protoss, Axon, or 5G
+
+432
+00:31:18,000 --> 00:31:22,000
+Most importantly, I would like to thank Two Digital Credit
+
+433
+00:31:22,000 --> 00:31:25,000
+Digital Park, our TDP
+
+434
+00:31:25,000 --> 00:31:30,000
+Today, we've learned a lot about agri-tech
+
+435
+00:31:30,000 --> 00:31:33,000
+Let's take a picture together
+
+436
+00:31:33,000 --> 00:31:35,000
+There are some souvenirs, right?
+
+437
+00:31:35,000 --> 00:31:38,000
+Let's take a look at the speakers
+
+438
+00:31:38,000 --> 00:31:42,000
+It's a T-shirt
+
+439
+00:31:42,000 --> 00:31:45,000
+There are two events today
+
+440
+00:31:45,000 --> 00:31:48,000
+One is P'Pompawut's Web Friend Day
+
+441
+00:31:48,000 --> 00:31:51,000
+I've already organized two boxes
+
+442
+00:31:51,000 --> 00:31:55,000
+I can't find the right place
+
+443
+00:31:55,000 --> 00:31:58,000
+Let's take a picture together
+
+444
+00:32:00,000 --> 00:32:02,000
+Let's take a picture
+
+445
+00:32:30,000 --> 00:32:32,000
+Let's take a picture together
+
+446
+00:33:00,000 --> 00:33:02,000
+Let's take a picture together
+

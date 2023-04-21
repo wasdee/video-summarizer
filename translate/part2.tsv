@@ -1,0 +1,447 @@
+start	end	text
+0	4000	Our concept is not very high-tech.
+4000	12000	We have to pay attention to how we take care of our farmland.
+12000	15000	If there's a problem, we always help.
+15000	21000	But if we don't have the tools, it's hard to do it.
+21000	31000	When we grow vegetables in a small area, we have to take care of it every day.
+31000	35000	Without tools, it's impossible to do it.
+35000	38000	This is where technology comes in handy.
+38000	44000	We collect data on plants.
+44000	55000	We use the data to analyze how we can improve our farmland.
+55000	58000	Once we understand it, we respond to it.
+58000	60000	We take action.
+60000	63000	If there's a problem, what can we do to fix it?
+63000	69000	We take action to improve our farmland.
+70000	76000	This is how we collect data.
+76000	78000	This is an example.
+78000	83000	This is a photo of a plant.
+83000	88000	We choose to use a drone photo rather than a satellite photo.
+88000	92000	Both have different benefits.
+92000	95000	The satellite photo has all the data in the world.
+95000	100000	But the drone photo has two advantages.
+100000	105000	The first is spatial resolution.
+105000	112000	The second is ground sampling distance.
+112000	118000	The drone photo is 50 cm by 1 pixel.
+118000	121000	We can see the details of the plant.
+121000	127000	The satellite photo is only 15 m by 1 pixel.
+127000	131000	We can't see what's going on in that area.
+131000	133000	We can only see one point.
+133000	135000	It's bigger than the plant itself.
+139000	149000	This is a comparison of drone and satellite photos.
+149000	157000	We can see that the satellite photo has good and bad grounds.
+157000	161000	But we can't tell what's good or bad about the plant.
+161000	163000	But the drone photo is more detailed.
+163000	165000	We can tell the difference.
+165000	167000	We have more information.
+167000	169000	We can make better decisions.
+173000	175000	Another thing is the detail in time.
+175000	179000	The satellite photo doesn't stay in the same place forever.
+179000	184000	It stays in the same place for a day.
+184000	188000	It doesn't mean that we can get the information we want.
+188000	192000	If it rains heavily that day,
+192000	196000	we will miss the opportunity to get the information.
+196000	203000	We can get the information we want by using a drone.
+206000	212000	What do we use to get the information?
+212000	220000	I will show you the drone that we developed for space exploration.
+226000	233000	We have seen a drone that can fly up and down and take photos.
+233000	237000	The only limitation is that it can control the area.
+237000	240000	But compared to a plane that uses wings,
+240000	242000	it has more efficiency.
+242000	244000	It can control the area more.
+244000	247000	Vettel is a drone that we developed.
+247000	250000	It can fly up and down.
+250000	254000	There are two advantages.
+254000	255000	It uses less area.
+255000	256000	It's easy to work.
+256000	257000	It can fly up and down.
+257000	259000	If you have seen the video of space exploration,
+259000	260000	it will be like that.
+260000	261000	It can fly up and down.
+261000	265000	It can fly like a plane.
+265000	267000	It can control the area more.
+267000	272000	It can be used for space exploration.
+272000	275000	It can be used for urban exploration.
+275000	282000	It can be used for small transportation.
+282000	286000	The drone is made of carbon fiber.
+286000	287000	It is light.
+287000	288000	It is light.
+288000	292000	It can control the area more efficiently.
+296000	301000	You can install an on-board computer to control the communication system.
+301000	305000	Whether it is a radio or 4G or 5G,
+305000	308000	you can work with this drone.
+318000	320000	You can work with the drone.
+320000	325000	We have a software to plan where to cover the area,
+325000	326000	how to plan the flight,
+326000	328000	where to take pictures,
+328000	331000	and collect the data to assess the results.
+348000	349000	Okay.
+349000	351000	Now that we have the data,
+351000	354000	we can analyze it to see if it is useful.
+354000	358000	We can start by preparing the area.
+358000	363000	We can use the photo data to see
+363000	367000	whether the area is smooth or not.
+367000	371000	We can prepare the paint for the area.
+371000	374000	We can prepare the paint for the area.
+374000	378000	To prepare the paint for a smooth surface,
+378000	381000	it is easier for the farmer to work.
+381000	384000	It is easier to grow the plants.
+384000	386000	It is easier to take care of the plants.
+386000	387000	The result is better.
+387000	390000	To prepare the area,
+390000	397000	some agricultural projects need a smooth surface.
+397000	400000	Some projects need a small slope
+400000	404000	so that the water can flow from the head to the tail.
+404000	410000	It saves money.
+410000	411000	If we have a slope,
+411000	415000	the water can flow naturally.
+415000	419000	We can use this data to prepare the paint.
+419000	429000	Next, we can use the multi-spectrum data
+429000	434000	to see if the plant is healthy or not.
+434000	438000	We can see if there is any disease or not.
+438000	441000	We can analyze it in detail.
+441000	447000	We can see if this zone is dehydrated
+447000	449000	or if there is a disease.
+449000	451000	This zone may have a bug.
+456000	458000	In addition to seeing the strength,
+458000	462000	we can also use the model to analyze.
+462000	463000	For example,
+463000	469000	we can evaluate the sweetness of the plant.
+469000	471000	It is called the Khabrix.
+471000	474000	The middle picture is the normal color picture.
+474000	476000	The left picture is the result.
+476000	480000	It shows the sweetness of the sugar.
+480000	485000	The right picture shows the height of the plant.
+485000	488000	How much volume does the paint have?
+488000	490000	How many tons will it produce?
+490000	493000	If we know the content of the sugar,
+493000	499000	we can evaluate the sugar content of the paint.
+499000	506000	This is another picture.
+506000	509000	If we keep the data consistently,
+509000	515000	we can know the content of the sugar.
+515000	517000	Is it increasing or decreasing?
+517000	519000	Is it at the right point?
+519000	526000	Does the paint have a constant sweetness value?
+530000	533000	Once we have the data,
+533000	540000	we can plan how to respond to it.
+540000	546000	We can see if the plant is dehydrated,
+546000	550000	or if there is a disease.
+550000	554000	We can take care of the spot.
+554000	556000	If we don't have the data,
+556000	562000	we may have to water the plant.
+562000	565000	It is a high cost.
+565000	567000	It is difficult to take care of the plant.
+567000	568000	If we give a lot of chemicals,
+568000	570000	the plant may be dehydrated.
+570000	574000	But if we know that the plant has a need,
+574000	580000	we can add more chemicals to the plant.
+581000	587000	We can evaluate the plant.
+587000	591000	If we plant a lot of paints,
+591000	593000	we can keep the data.
+593000	597000	We can plan how much the paint has been produced.
+597000	605000	We can plan when the paint is ready to be produced.
+605000	610000	We can plan when the paint is ready to be produced.
+610000	617000	If the plant is dehydrated,
+617000	620000	but the paint is ready to be produced,
+620000	621000	we don't have to wait.
+621000	624000	We can keep the paint before it is damaged.
+624000	628000	Another benefit is that
+628000	632000	there is a tendency to burn the paint.
+632000	635000	Do farmers want to burn the paint?
+635000	636000	They don't want to burn the paint.
+636000	640000	Burning the paint makes the product worse.
+640000	644000	But there is a period when the paint has to be kept.
+644000	648000	But they don't have the tools.
+648000	651000	Everyone wants to keep the paint at the same time to sell.
+651000	655000	The demand for chemicals is increasing.
+655000	658000	If the paint cannot be kept,
+658000	660000	it is not useful.
+660000	666000	There is a tendency to burn the paint.
+666000	669000	But if we have the tools,
+669000	673000	we can plan how to keep the paint.
+673000	675000	We can plan when to keep the paint.
+675000	677000	We can plan when to use the tools.
+677000	685000	We can reduce the problem of chemical degradation during that period.
+691000	694000	Next is the action.
+694000	700000	We know that if we have to give the chemicals,
+700000	706000	we can use the drone to help us.
+706000	712000	We can use the drone to help us.
+721000	729000	This is the drone that we developed.
+729000	734000	We developed this drone to spray the chemicals.
+734000	738000	It has 10 liters of chemicals.
+738000	741000	It is a multi-rotor drone.
+741000	743000	It has 4 blades.
+743000	746000	It has a chemical tank.
+746000	749000	It has a tank and a spray head.
+749000	755000	We can choose which type of plant to spray.
+755000	760000	How many spray heads should be used?
+760000	763000	We can choose the type of plants.
+763000	768000	We can choose which type of plants to spray.
+768000	770000	How fast should we spray?
+770000	774000	We can control the amount of water and give the right amount of water.
+775000	783000	We developed the plane software to interact with the farmers,
+783000	790000	so that they can learn how to work together and use.
+790000	801000	They can use the software and calculate how they have to use the chemicals and how much the chemical spray area has to be used.
+801000	807000	They can calculate how much chemical spray they have to use,
+807000	811000	how much battery and chemical spray they have to use,
+811000	816000	how much water they have to fill,
+816000	819000	and how much chemical spray they have to use.
+819000	826000	The software helps them to calculate and inform the farmers.
+826000	831000	They can use the software and calculate how much chemical spray they have to use.
+831000	835000	The software helps them to calculate and inform the farmers.
+835000	840000	The software allows us to control the aircraft accurately.
+840000	849000	We can always spray the chemicals and increase the amount of chemical spray to some point.
+849000	857000	The software can control the aircraft accurately.
+857000	870000	The software can control the aircraft accurately.
+870000	876000	In the case of a large area that cannot be controlled in time,
+876000	884000	the software can work together and send the flight plan to the aircraft.
+884000	886000	It saves time and effort.
+886000	889000	It saves time and effort.
+889000	894000	It saves time and effort.
+901000	905000	We can see that it's better than humans.
+905000	908000	The aircraft can work faster than humans.
+908000	912000	So far, no one has to spray the chemicals on their own.
+912000	916000	So far, no one has to spray the chemicals on their own.
+916000	921000	So far, no one has to spray the chemicals on their own.
+923000	925000	We can also create more jobs for them.
+925000	927000	The farmers don't have to spray the chemicals on their own.
+927000	928000	They hire the workers.
+928000	930000	The employers can work more in a day.
+937000	941000	In addition to our commercial drones,
+941000	945000	we also have other autonomous vehicles
+945000	950000	that can do other kinds of work or experiments
+950000	952000	that currently do not use agriculture,
+952000	954000	but can use agriculture.
+955000	956000	Okay.
+966000	968000	This is an autonomous vehicle
+968000	972000	that can work in different places instead of humans.
+972000	976000	For example, it can deliver heavy goods
+976000	979000	and work in a farm
+979000	983000	so that we don't have to risk contact with the world or animals.
+983000	985000	It can also work in a mine
+985000	987000	to measure and collect data
+987000	993000	or spray the chemicals on the plants.
+995000	998000	It's an autonomous vehicle
+998000	1002000	that can work in different places instead of humans.
+1013000	1014000	Okay.
+1017000	1020000	Or it can work in the seawater.
+1024000	1027000	We can also have a boat
+1033000	1038000	that can plan the depth of the water
+1038000	1041000	and the area where it can release and collect the water.
+1041000	1044000	It can plan the amount of water
+1044000	1047000	that will be collected in the rain.
+1048000	1052000	Or it can use it to check the quality of water
+1052000	1054000	and measure the quality of water
+1054000	1056000	to see how dirty the water is
+1056000	1058000	and see if there are any pathogens.
+1058000	1063000	It can also use it to monitor the water quality
+1063000	1066000	to monitor the water quality of the water.
+1066000	1071000	The boat can be used to plan the depth of the water
+1071000	1076000	and measure the quality of water.
+1096000	1098000	It's similar to a drone.
+1098000	1103000	We can plan the area that we want it to explore
+1103000	1107000	and how we want it to control the area
+1107000	1112000	and how we want it to collect the data.
+1112000	1113000	Okay.
+1122000	1127000	The boat can also be used to measure the depth of the water.
+1127000	1130000	It can measure the depth of the water
+1130000	1133000	and see how deep it is.
+1133000	1138000	It can also plan the depth of the water
+1138000	1144000	and see how deep it is.
+1151000	1155000	It can also combine the data with the weather forecast
+1155000	1159000	to plan the weather forecast
+1159000	1162000	for both upstream and downstream.
+1168000	1169000	Okay.
+1192000	1195000	The submarine can also be used
+1195000	1198000	to plan the weather forecast for both upstream and downstream.
+1208000	1209000	Okay.
+1209000	1213000	We didn't make this model for research purposes.
+1213000	1217000	At first, we made this model for research purposes
+1217000	1219000	to study the gas pipeline in the South China Sea.
+1219000	1221000	But when it works in the water,
+1221000	1225000	it can also actually work with water pets in the sea.
+1225000	1229000	Nowadays, there is a system to take care of the seagrasses in the sea.
+1229000	1235000	It can monitor the water pets in the sea as well as the water bodies in the sea.
+1235000	1239000	This model can be used to conduct research
+1239000	1242000	and be tested using various devices
+1242000	1245000	to study the water area,
+1245000	1248000	gather photos, study its variations, etc.
+1248000	1256000	This is a software that can be tested in the sea.
+1279000	1282000	This is a picture of how it works.
+1282000	1285000	It can measure various values
+1285000	1288000	and send it back to the surface of the water
+1288000	1292000	so that we don't have to go down to work under the water.
+1309000	1312000	This is a picture of how it works.
+1312000	1315000	It can measure the value of the water area.
+1315000	1318000	This is a picture of how it works.
+1318000	1321000	It can measure the value of the water area.
+1321000	1324000	This is a picture of how it works.
+1324000	1327000	This is a picture of how it works.
+1335000	1340000	This is an example of various autonomous systems
+1340000	1343000	that can help us.
+1344000	1347000	To sum up,
+1347000	1350000	we believe that
+1350000	1353000	we believe that 1 plus 1 equals 2.
+1353000	1356000	We believe that
+1356000	1359000	the autonomous technology can work with people
+1359000	1362000	with different strengths.
+1362000	1365000	It can work with people with more than just 2.
+1365000	1368000	It can work with people with more resources.
+1368000	1371000	It can work with people with better decision-making skills.
+1371000	1374000	It can work with people with better decision-making skills.
+1374000	1377000	It can work with people with better decision-making skills.
+1377000	1380000	It can work with people with better decision-making skills.
+1380000	1383000	By combining people's abilities
+1383000	1386000	by combining people's abilities
+1386000	1389000	with the cars' abilities,
+1389000	1392000	we can solve a lot of problems.
+1396000	1399000	That's it.
+1399000	1402000	If you have any questions, feel free to ask.
+1423000	1426000	I have two questions.
+1426000	1429000	The drone service is for selling images.
+1429000	1432000	The drone service is for selling images.
+1432000	1435000	Do you have a drone service?
+1435000	1438000	We don't have a drone service.
+1438000	1441000	We sell drones
+1441000	1444000	and promote image marketing.
+1444000	1447000	The customer can buy our drones
+1447000	1450000	or use their drones.
+1450000	1453000	We can upload images to the system
+1453000	1456000	and sell them.
+1459000	1462000	You have a drone service
+1462000	1465000	that sells images.
+1465000	1468000	Do you have a drone service?
+1468000	1471000	I've seen a drone service
+1471000	1474000	that sells images.
+1474000	1477000	How do you use the drone service?
+1477000	1480000	Do you use the data service?
+1480000	1483000	As far as I know,
+1483000	1486000	there's a drone service
+1486000	1489000	that recounts images.
+1489000	1492000	I'm not sure what kind of images
+1492000	1495000	they use.
+1495000	1498000	I'm not sure.
+1498000	1501000	Do you have a drone service?
+1501000	1504000	Do you have a drone service?
+1504000	1507000	Do you have a drone service?
+1507000	1510000	Do you have a drone service?
+1510000	1513000	Do you have a drone service?
+1513000	1516000	Do you have a drone service?
+1516000	1519000	As far as I know,
+1519000	1522000	our customers use the service in their own area.
+1522000	1525000	We don't run the service for others.
+1525000	1528000	Do you have a drone service?
+1528000	1531000	Do you have a drone service?
+1531000	1534000	I'm not sure.
+1534000	1537000	As far as I know,
+1537000	1540000	our customers use the service in their own area.
+1546000	1549000	As far as I know,
+1549000	1552000	our customers use the service in their own area.
+1552000	1555000	As far as I know,
+1555000	1558000	we don't have a drone service.
+1558000	1561000	We don't have a drone service.
+1561000	1564000	We use our own data.
+1564000	1567000	It's not that big.
+1567000	1570000	It's not that big.
+1570000	1573000	It's not that big.
+1573000	1576000	This is a feedback.
+1576000	1579000	In case we have a chance to meet someone who does this job.
+1579000	1582000	Or we might have a partner to continue this treatment.
+1582000	1585000	Or we might have a partner to continue this treatment.
+1585000	1588000	If we say we want people to know
+1588000	1590000	If we say we want people to know
+1590000	1593000	then they will get encouragement from us.
+1593000	1596000	They'll talk to me first when this problem occurs.
+1596000	1599000	I have a person who is interested in this.
+1599000	1602000	I have a person who is interested in this.
+1602000	1605000	I mean if I heard that there are orbit wires in this area,
+1605000	1608000	I mean if I heard that there are orbit wires in this area,
+1608000	1611000	I'd like to use that to check to see if it'd be problematic
+1611000	1614000	I'd like to use that to check to see if it'd be problematic
+1614000	1618000	Mr.Tumpaksit was working on an area
+1619000	1622000	I've talked to the TGO about carbon credit
+1622000	1625000	I've talked to the TGO about carbon credit
+1625000	1628000	They still have to deliver the wood
+1628000	1631000	They still have to deliver the wood
+1631000	1634000	to calculate the carbon credit
+1634000	1637000	So I'm trying these
+1637000	1640000	I'd like to ask as a producer
+1640000	1643000	if there are any customers who want to use it for service
+1643000	1646000	if there are any customers who want to use it for service
+1646000	1650000	Safer and more distributed
+1650000	1653000	Safer and more distributed
+1653000	1656000	You'll see it in the class
+1656000	1659000	you'll see it in the class
+1668000	1672000	There are many version of it
+1672000	1675000	There are many version of it
+1675000	1677000	I have a question
+1677000	1680000	There are many customers who don't know much about technology
+1680000	1686000	Can they use any services related to technology?
+1686000	1688000	Can they use any services related to technology?
+1688000	1692000	I can answer that
+1692000	1696000	If you ask me if there are people who don't know much about technology
+1696000	1700000	I don't want to look down on them
+1700000	1704000	I think they are not that high-tech
+1704000	1706000	I think they are not that high-tech
+1706000	1708000	4-5 years ago, it was like that
+1708000	1711000	But now, everyone has a mobile phone
+1711000	1713000	They receive information via social media
+1713000	1716000	They watch TikTok
+1716000	1720000	Many economists have TikTok
+1720000	1723000	They follow each other
+1723000	1727000	Most of the economists are in technology
+1727000	1732000	When we work with economists
+1732000	1735000	We know their workflow
+1735000	1738000	We design software to make it easy to use
+1738000	1740000	We make menus in Thai
+1740000	1741000	We make menus in Thai
+1741000	1744000	In comparison to other countries, like Wat
+1744000	1746000	In other countries, it's Hector
+1746000	1748000	In Thailand, we use Wale
+1748000	1750000	We make calculations in Thai
+1750000	1751000	We make calculations in Thai
+1751000	1752000	We make calculations in Thai
+1752000	1753000	We make calculations in Thai
+1753000	1754000	We make calculations in Thai
+1755000	1759000	Can I ask you a question?
+1759000	1763000	If there are people who don't know much about technology
+1763000	1766000	Do you have a solution?
+1766000	1768000	Do you have a solution?
+1768000	1771000	Or do you have to get help from new people?
+1771000	1773000	Or do you have to get help from new people?
+1773000	1775000	Or do you have to get help from new people?
+1775000	1777000	Partially,
+1777000	1781000	Partially,
+1782000	1786000	There are things that can be helped
+1786000	1788000	They are happy
+1788000	1790000	They face problems
+1790000	1793000	This is a solution that can be helped
+1793000	1796000	They are willing to use it
+1796000	1799000	It's easy tools
+1799000	1802000	It's not like
+1802000	1804000	When we use cellphone
+1804000	1806000	It's like downloading data
+1806000	1809000	It's just for menus
+1809000	1812000	It's not that hard to use
+1812000	1819000	I've never seen a case that can't be used
+1839000	1849000	Thank you
+1857000	1862000	Thank you to all three speakers
+1862000	1864000	How was it?
+1864000	1868000	Is there anyone interested in doing agri-tech?
+1868000	1872000	Thank you everyone for coming
+1872000	1874000	Thank you for your support
+1874000	1878000	Whether it's Protoss, Axon, or 5G
+1878000	1882000	Most importantly, I would like to thank Two Digital Credit
+1882000	1885000	Digital Park, our TDP
+1885000	1890000	Today, we've learned a lot about agri-tech
+1890000	1893000	Let's take a picture together
+1893000	1895000	There are some souvenirs, right?
+1895000	1898000	Let's take a look at the speakers
+1898000	1902000	It's a T-shirt
+1902000	1905000	There are two events today
+1905000	1908000	One is P'Pompawut's Web Friend Day
+1908000	1911000	I've already organized two boxes
+1911000	1915000	I can't find the right place
+1915000	1918000	Let's take a picture together
+1920000	1922000	Let's take a picture
+1950000	1952000	Let's take a picture together
+1980000	1982000	Let's take a picture together
